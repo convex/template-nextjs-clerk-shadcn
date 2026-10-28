@@ -1,7 +1,7 @@
 > [!WARNING]
 > This repository is deprecated!
 >
-> Find the up-to-date version at https://github.com/get-convex/templates/tree/main/template-nextjs-clerk-shadcn
+> Find the up-to-date version at https://github.com/convex/templates/tree/main/template-nextjs-clerk-shadcn
 >
 > If you just ran `npm create convex`, run `npm create convex@latest` instead
 
